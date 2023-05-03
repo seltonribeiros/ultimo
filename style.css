@@ -1,0 +1,12 @@
+header{
+    background-color:#383D58;
+    color: white;
+    display: flex;
+    justify-content:space-around;
+    height: 100px;
+}
+body[font-family: 'Roboto Mono', monospace;]
+.logo-cabecalho{
+width: 60% ;
+
+}
